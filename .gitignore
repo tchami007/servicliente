@@ -90,6 +90,7 @@ Migrations/
 # Ignorar configuraciones y archivos generados por usuario
 *.suo
 *.user
+appsettings.json
 
 # Configuraciones locales de Kestrel, IIS, o hosting local
 *.swp
